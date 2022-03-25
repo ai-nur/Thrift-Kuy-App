@@ -1,0 +1,299 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "kategori": "crewneck",
+      "namaProduk": "Crewneck Bulls CN-BL",
+      "harga": "330000",
+      "size": "90",
+      "panjang": "67",
+      "lebar": "53",
+      "deskripsi": "Detail produk minus crack halus kondisi over all good condition warna pekat karet aman",
+      "gambarProduk": "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FcnPNG%2FCN-BL1.png?alt=media&token=65826ae5-692a-4558-8ebd-eb790d2bb90b",
+      "listGambar": [
+        "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FcnPNG%2FCN-BL1.png?alt=media&token=65826ae5-692a-4558-8ebd-eb790d2bb90b",
+        "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FcnPNG%2FCN-BL2.png?alt=media&token=aa74cc2d-8ece-4274-9f5d-fbdcfc7c41f2",
+        "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FcnPNG%2FCN-BL3.png?alt=media&token=eb86b0e1-739c-4a06-ab60-1926715ad32a"
+      ]
+    },
+    {
+      "id": 2,
+      "kategori": "crewneck",
+      "namaProduk": "Crewneck Champion CN-CH",
+      "harga": "140000",
+      "size": "L",
+      "panjang": "65",
+      "lebar": "53",
+      "deskripsi": "Detail produk kondisi over all good condition warna pekat karet aman",
+      "gambarProduk": "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FcnPNG%2FCN-CH1.png?alt=media&token=fdb5a7fb-cd59-434d-a97e-86adc53252ef",
+      "listGambar": [
+        "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FcnPNG%2FCN-CH1.png?alt=media&token=fdb5a7fb-cd59-434d-a97e-86adc53252ef",
+        "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FcnPNG%2FCN-CH2.png?alt=media&token=1ae60493-4db2-493e-9d64-0e5629250b6f",
+        "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FcnPNG%2FCN-CH3.png?alt=media&token=16b78e6a-5465-42b8-b8d9-0bb70ae330ad"
+      ]
+    },
+    {
+      "id": 3,
+      "kategori": "crewneck",
+      "namaProduk": "Crewneck Dickies CN-DK",
+      "harga": "150000",
+      "size": "M",
+      "panjang": "66",
+      "lebar": "58",
+      "deskripsi": "Detail produk kondisi over all good condition warna pekat karet aman minus noda",
+      "gambarProduk": "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FcnPNG%2FCN-DK1.png?alt=media&token=9c291238-e87a-4d9f-acf0-0a815694e76b",
+      "listGambar": [
+        "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FcnPNG%2FCN-DK1.png?alt=media&token=9c291238-e87a-4d9f-acf0-0a815694e76b",
+        "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FcnPNG%2FCN-DK2.png?alt=media&token=087cf7ce-f0a8-41c4-a287-6da43ec00ebd",
+        "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FcnPNG%2FCN-DK3.png?alt=media&token=dddfadcf-e3d8-4245-b897-5d626fd2d1ec"
+      ]
+    },
+    {
+      "id": 4,
+      "kategori": "crewneck",
+      "namaProduk": "Crewneck New Balance CN-NB",
+      "harga": "200000",
+      "size": "L",
+      "panjang": "70",
+      "lebar": "60",
+      "deskripsi": "Detail produk kondisi over all good condition warna pekat karet aman",
+      "gambarProduk": "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FcnPNG%2FCN-NB1.png?alt=media&token=0e7c57fd-3dba-438c-acbe-38676088d2a8",
+      "listGambar": [
+        "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FcnPNG%2FCN-NB1.png?alt=media&token=0e7c57fd-3dba-438c-acbe-38676088d2a8",
+        "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FcnPNG%2FCN-NB2.png?alt=media&token=1a157c9d-861d-49de-9fcc-fb4174e574f8",
+        "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FcnPNG%2FCN-NB3.png?alt=media&token=9f63f756-fb44-4f94-bf1c-109a10d0d33a"
+      ]
+    },
+    {
+      "id": 5,
+      "kategori": "flanel",
+      "namaProduk": "Flanel Flannel Original FN-FNL",
+      "harga": "90000",
+      "size": "XL",
+      "panjang": "75",
+      "lebar": "55",
+      "deskripsi": "Detail produk kondisi over all good condition warna pekat",
+      "gambarProduk": "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FfnPNG%2FFN-FNL1.png?alt=media&token=31335175-7b1d-46be-826c-611c716ae6b7",
+      "listGambar": [
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FfnPNG%2FFN-FNL1.png?alt=media&token=31335175-7b1d-46be-826c-611c716ae6b7",
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FfnPNG%2FFN-FNL2.png?alt=media&token=281fb1cf-7a88-4c90-ba61-ea01547a8a3c",
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FfnPNG%2FFN-FNL3.png?alt=media&token=20684585-5451-451f-9310-c53d05c2498c"
+      ]
+  },
+  {
+      "id": 6,
+      "kategori": "flanel",
+      "namaProduk": "Flanel Neyries FN-NYR",
+      "harga": "80.00",
+      "size": "L",
+      "panjang": "70",
+      "lebar": "60",
+      "deskripsi": "Detail produk kondisi over all good condition warna pekat",
+      "gambarProduk": "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FfnPNG%2FFN-NYR1.png?alt=media&token=7a7b7afe-938a-41a3-8152-13326feb994f",
+      "listGambar": [
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FfnPNG%2FFN-NYR1.png?alt=media&token=7a7b7afe-938a-41a3-8152-13326feb994f",
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FfnPNG%2FFN-NYR2.png?alt=media&token=e3a4be3f-cd43-449c-9b8f-5534efdcd923",
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FfnPNG%2FFN-NYR3.png?alt=media&token=7b2e6b8c-13e8-48f6-9547-c35631d7ecb5"
+      ]
+  },
+  {
+      "id": 7,
+      "kategori": "flanel",
+      "namaProduk": "Flanel Qualitu Garment FN-QL",
+      "harga": "75000",
+      "size": "XL",
+      "panjang": "78",
+      "lebar": "62",
+      "deskripsi": "Detail produk kondisi over all good condition warna pekat",
+      "gambarProduk": "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FfnPNG%2FFN-QL1.png?alt=media&token=ca62f6c9-1d22-4087-b16d-478ed4b38147",
+      "listGambar": [
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FfnPNG%2FFN-QL1.png?alt=media&token=ca62f6c9-1d22-4087-b16d-478ed4b38147",
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FfnPNG%2FFN-QL2.png?alt=media&token=3ae2b476-9671-4aff-a2f0-21c9fc4a80dc",
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FfnPNG%2FFN-QL3.png?alt=media&token=472a5933-0ab2-4495-b69e-21cbf5e65f89"
+      ]
+  },
+  {
+      "id": 8,
+      "kategori": "flanel",
+      "namaProduk": "Flanel Robinson FN-RB",
+      "harga": "85000",
+      "size": "XL",
+      "panjang": "73",
+      "lebar": "58",
+      "deskripsi": "Detail produk kondisi over all good condition warna pekat",
+      "gambarProduk": "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FfnPNG%2FFN-RB1.png?alt=media&token=948e6a98-8ae9-4ad0-b048-7eb851cd25e1",
+      "listGambar": [
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FfnPNG%2FFN-RB1.png?alt=media&token=948e6a98-8ae9-4ad0-b048-7eb851cd25e1",
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FfnPNG%2FFN-RB2.png?alt=media&token=b7d16023-7159-4c82-8606-e3e4510a8db8",
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FfnPNG%2FFN-RB3.png?alt=media&token=f1ec3261-3fed-4336-81df-cbd60ceed92d"
+      ]
+  },
+  {
+      "id": 9,
+      "kategori": "hoodie",
+      "namaProduk": "Hoodie Dickies HD-DK",
+      "harga": "200000",
+      "size": "XL",
+      "panjang": "77",
+      "lebar": "63",
+      "deskripsi": "Detail produk kondisi over all good condition warna pekat karet aman",
+      "gambarProduk": "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FhdPNG%2FHD-DK1.png?alt=media&token=e7897b0f-7a85-4819-9797-e8e98885262e",
+      "listGambar": [
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FhdPNG%2FHD-DK1.png?alt=media&token=e7897b0f-7a85-4819-9797-e8e98885262e",
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FhdPNG%2FHD-DK2.png?alt=media&token=feaf1381-ad43-4596-acb0-85cb011ce163",
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FhdPNG%2FHD-DK3.png?alt=media&token=0b42e740-19e9-431b-a521-ba37b4599988"
+      ]
+  },
+  {
+      "id": 10,
+      "kategori": "hoodie",
+      "namaProduk": "Hoodie G.A.P. HD-GAP",
+      "harga": "220000",
+      "size": "XL",
+      "panjang": "73",
+      "lebar": "66",
+      "deskripsi": "Detail produk kondisi over all good condition warna pekat karet aman",
+      "gambarProduk": "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FhdPNG%2FHD-GAP1.png?alt=media&token=0b6b6121-1322-4b9c-8715-6988239d5af9",
+      "listGambar": [
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FhdPNG%2FHD-GAP1.png?alt=media&token=0b6b6121-1322-4b9c-8715-6988239d5af9",
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FhdPNG%2FHD-GAP2.png?alt=media&token=328094ba-777e-4af0-9357-c1921774a50f",
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FhdPNG%2FHD-GAP3.png?alt=media&token=aceb8af6-1f16-4848-b8cb-e5c9bf25fc1a"
+      ]
+  },
+  {
+      "id": 11,
+      "kategori": "hoodie",
+      "namaProduk": "Hoodie N.B.A. HD-NBA",
+      "harga": "300000",
+      "size": "XXL",
+      "panjang": "78",
+      "lebar": "66",
+      "deskripsi": "Detail produk kondisi over all good condition warna pekat karet aman",
+      "gambarProduk": "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FhdPNG%2FHD-NBA1.png?alt=media&token=0de72715-2a10-4a7f-bdc4-874df89eaecd",
+      "listGambar": [
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FhdPNG%2FHD-NBA1.png?alt=media&token=0de72715-2a10-4a7f-bdc4-874df89eaecd",
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FhdPNG%2FHD-NBA2.png?alt=media&token=599ac6d6-f76a-4e91-bf1a-23605fe7d11c",
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FhdPNG%2FHD-NBA3.png?alt=media&token=b667835f-1175-48ca-8705-175b50289384"
+      ]
+  },
+  {
+      "id": 12,
+      "kategori": "hoodie",
+      "namaProduk": "Hoodie Off White HD-OW",
+      "harga": "250000",
+      "size": "XL",
+      "panjang": "75",
+      "lebar": "62",
+      "deskripsi": "Detail produk kondisi over all good condition warna pekat karet aman",
+      "gambarProduk": "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FhdPNG%2FHD-OW1.png?alt=media&token=1c871ca6-74bd-4766-a4ea-2c0c09c67748",
+      "listGambar": [
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FhdPNG%2FHD-OW1.png?alt=media&token=1c871ca6-74bd-4766-a4ea-2c0c09c67748",
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FhdPNG%2FHD-OW2.png?alt=media&token=de46f3ab-9564-4f51-904e-df18051131ed",
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FhdPNG%2FHD-OW3.png?alt=media&token=61112be0-abc4-4caf-b44d-c4129e8930e9"
+      ]
+  },
+  {
+      "id": 13,
+      "kategori": "jacket",
+      "namaProduk": "Jacket Outdoor BlackYak JK-BL",
+      "harga": "210000",
+      "size": "XL",
+      "panjang": "73",
+      "lebar": "62",
+      "deskripsi": "Detail produk kondisi over all good condition warna pekat karet aman",
+      "gambarProduk": "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FjkPNG%2FJK-BL1.png?alt=media&token=93abeaae-061e-40f9-b887-3547c718a41a",
+      "listGambar": [
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FjkPNG%2FJK-BL1.png?alt=media&token=93abeaae-061e-40f9-b887-3547c718a41a",
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FjkPNG%2FJK-BL2.png?alt=media&token=b4b36589-f7b9-42fe-950f-f1fd37d127fd",
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FjkPNG%2FJK-BL3.png?alt=media&token=f59e900a-df91-46b9-9b28-d7cdda49d1ae"
+      ]
+  },
+  {
+      "id": 14,
+      "kategori": "jacket",
+      "namaProduk": "Jacket Outdoor K2 JK-K2",
+      "harga": "150000",
+      "size": "M",
+      "panjang": "63",
+      "lebar": "50",
+      "deskripsi": "Detail produk kondisi over all good condition warna pekat karet aman",
+      "gambarProduk": "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FjkPNG%2FJK-K2-1.png?alt=media&token=5482b64b-3781-4cb2-a4ca-506a82c4840f",
+      "listGambar": [
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FjkPNG%2FJK-K2-1.png?alt=media&token=5482b64b-3781-4cb2-a4ca-506a82c4840f",
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FjkPNG%2FJK-K2-2.png?alt=media&token=cabe9112-f7f2-4dfa-b62d-e092677cee9a",
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FjkPNG%2FJK-K2-3.png?alt=media&token=7c5646dd-4a64-4695-b6a5-7833ee18c231"
+      ]
+  },
+  {
+      "id": 15,
+      "kategori": "jacket",
+      "namaProduk": "Jacket Outdoor TNF Black JK-TNB",
+      "harga": "250000",
+      "size": "XL",
+      "panjang": "75",
+      "lebar": "62",
+      "deskripsi": "Saku Samping | Detail produk kondisi over all good condition warna pekat karet aman",
+      "gambarProduk": "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FjkPNG%2FJK-TNB1.png?alt=media&token=01a5f658-ef2c-4b94-9728-b1980290f993",
+      "listGambar": [
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FjkPNG%2FJK-TNB1.png?alt=media&token=01a5f658-ef2c-4b94-9728-b1980290f993",
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FjkPNG%2FJK-TNB2.png?alt=media&token=8d4ff407-10de-4134-a276-2e21812bd0fa",
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FjkPNG%2FJK-TNB3.png?alt=media&token=f5bd513b-377f-4c10-b5d7-d02aeef58da8"
+      ]
+  },
+  {
+      "id": 16,
+      "kategori": "jacket",
+      "namaProduk": "Jacket Outdoor TNF Red JK-TNF",
+      "harga": "350000",
+      "size": "XL",
+      "panjang": "74",
+      "lebar": "67",
+      "deskripsi": "Detail produk kondisi over all good condition warna pekat karet aman",
+      "gambarProduk": "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FjkPNG%2FJK-TNF1.png?alt=media&token=1932b84d-3abd-4004-a492-bdcdbb5a8219",
+      "listGambar": [
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FjkPNG%2FJK-TNF1.png?alt=media&token=1932b84d-3abd-4004-a492-bdcdbb5a8219",
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FjkPNG%2FJK-TNF2.png?alt=media&token=b8bb4a8b-40e8-4128-9862-9bbdb9cc58ae",
+          "https://firebasestorage.googleapis.com/v0/b/thrift-kuy.appspot.com/o/assets%2Fimages%2FjkPNG%2FJK-TNF3.png?alt=media&token=f7afce6b-c6f8-42f5-ac0f-de3fd346c26b"
+      ]
+  }
+
+  ],
+  "users": [
+    {
+      "id": 1,
+      "namaUser": "Muhamad Ayyub",
+      "username": "Ayyub123",
+      "email": "ayyub@gmail.com",
+      "password": "12345678",
+      "alamatPengiriman": [
+        {
+          "utama": "Dsn Nglele, RT/RW 003/002, Desa Nglele, Kecamatan Sumobito, Kabupaten Jombang, Provinsi Jawa Timur, 61483",
+          "alamat": "Dsn Nglele RT/RW 003/002",
+          "desaKelurahan": "Desa Nglele",
+          "kecamatan": "Sumobito",
+          "kabupatenKota": "Jombang",
+          "provinsi": "Jawa Timur",
+          "kodePos": "61483"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "namaUser": "Ahmad Yusuf",
+      "username": "Yusuf123",
+      "email": "yusuf@gmail.com",
+      "password": "12345678",
+      "alamatPengiriman": [
+        {
+          "utama": "Jl Teratai No 32, Kelurahan Dukuh, Kecamatan Sooko, Kabupaten Mojokerto, Provinsi Jawa Timur, 61452",
+          "alamat": "Jl Teratai No 32",
+          "desaKelurahan": "Kelurahan Dukuh",
+          "kecamatan": "Sooko",
+          "kabupatenKota": "Mojokerto",
+          "provinsi": "Jawa Timur",
+          "kodePos": "61452"
+        }
+      ]
+    }
+  ]
+}
